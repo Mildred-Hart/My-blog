@@ -1,0 +1,862 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.myblog{
+    color: black;
+    font-size: 20px;
+    margin: 10px 10px;
+    margin-top: 10%;
+    text-align: center;
+}
+.paragraph{
+    font-size: 17px;
+    display: flex;
+    margin: 15px 0px;
+    justify-content: center;
+}
+.unknown{
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+    padding: 3px 10px 3px 10px;
+    margin-top: -4px;
+}
+.box1{
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px 3px rgb(250, 248, 248);
+    border: none;
+    width: 65%;
+    margin-top: 70px;
+    margin-left: 15px;
+    height: 90vh;
+}
+.img1 img{
+    width:100%;
+    height: 45vh;
+}
+.titleheading1{
+    margin-left: 15px;
+    font-size: 1.2rem;
+    margin-top: -10px;
+}
+.ment1{
+    margin-left: 15px;
+    margin-top: -10px;
+    font-size: 1.1rem;
+    color: black;
+    font-weight: bold;
+
+}
+.titledescription1{
+    display:flex ;
+}
+.april1{
+    margin-top: -8px;
+    margin-left: 5px;
+    color: rgb(49, 48, 48);
+}
+.paragraph1{
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    width: 95%;
+    font-weight: bold;
+}
+.button1 button{
+    padding: 15px 15px 15px 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button1 button:hover{
+    background-color:gray ;
+    cursor: pointer;
+}
+.row{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 730px;
+    margin-bottom: 200px;
+    margin-top: -45px;
+}
+.zero{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    padding: 5px 10px 5px 10px;
+    margin-top: -25px;
+    margin-right:30px;
+    
+}
+.comments1{
+    display: flex;
+    margin-top: -23px;
+    margin-left: -40px;
+    font-weight: bold;
+}
+#main{
+    display: flex;
+}
+.box2{
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px 3px rgb(250, 248, 248);
+    border: none;
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 30px;
+    height: 78vh;
+    margin-right: 10px;
+
+}
+.img2 img{
+    width: 100%;
+    height: 50vh;
+}
+.myname{
+    margin-left: 15px;
+    font-size: 1rem;
+    margin-top: -10px;
+}
+.paragraph2{
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    width: 90%;
+    font-weight:bold;
+    font-size: 1rem;
+    color: black;
+}
+.box3{
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px 3px rgb(250, 248, 248);
+    border: none;
+    width: 65%;
+    margin-top: 68px;
+    margin-left: 5px;
+    height: 90vh;
+}
+.img3 img{
+    width: 100%;
+    height:50vh;
+}
+.blogentry{
+    margin-left: 15px;
+    font-size: 1.2rem;
+    margin-top: -10px;
+}
+.ment2{
+    margin-left: 15px;
+    margin-top: -10px;
+    font-size: 1.1rem;
+    color: black;
+    font-weight: bold;
+}
+.titledescription2{
+    display: flex;
+}
+.april2{
+    margin-top: -8px;
+    margin-left: 5px;
+    color: rgb(49, 48, 48);
+}
+.paragraph3{
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    width: 95%;
+    font-weight: bold;
+}
+.button2 button{
+    padding: 15px 15px 15px 15px;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button2 button:hover{
+    background-color:gray ;
+    cursor: pointer;
+}
+.bow{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 730px;
+    margin-bottom: 200px;
+    margin-top: -45px;
+}
+.comments2{
+    display: flex;
+    margin-top: -23px;
+    margin-left: -40px;
+    font-weight: bold;
+}
+.two{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    padding: 5px 10px 5px 10px;
+    margin-top: -25px;
+    margin-right:30px;
+    border-radius: 50%;
+    text-align: center;
+}
+.img4{
+    display: flex;
+    flex-direction: column;
+}
+.boo img{
+    width: 50px;
+    height: 8vh;
+    margin-top: 20px
+}
+.lor{
+    margin-top: -50px;
+    margin-left: 60px;
+}
+.fow{
+    margin-left: 58px;
+    margin-top: 8px;
+}
+
+.boo2 img{
+    width: 50px;
+    height: 8vh;
+    margin-top: 20px;
+}
+.ips{
+    margin-top: -50px;
+    margin-left: 60px;
+}
+.fow2{
+    margin-left: 60px;
+    margin-top: 8px;
+}
+
+.boo3 img{
+    width: 50px;
+    height: 8vh;
+    margin-top: 20px;
+}
+.dor{
+    margin-top: -50px;
+    margin-left: 60px;
+}
+.fow3{
+    margin-left: 60px;
+    margin-top: 8px;
+}
+
+.boo4 img{
+    width: 50px;
+    height: 8vh;
+    margin-top: 20px;
+}
+.min{
+    margin-top: -50px;
+    margin-left: 60px;
+}
+.fow4{
+    margin-left: 58px;
+    margin-top: 8px;
+}
+
+
+.box4{
+    width: 52%;
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px 3px rgb(250, 248, 248);
+    border: none;
+    height: 67vh;
+    margin-left: 872px;
+    margin-top: -870px;
+    margin-right: 10px;
+}
+.pop{
+    background-color: rgb(236, 228, 228);
+    padding: 3px 3px 5px 5px;
+    height: 9vh;
+    width: 95%;
+    margin-left: 15px;
+}
+.pop h3{
+    margin-top: 18px;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+.content:hover{
+    background-color: rgb(201, 197, 197);
+    width: 97%;
+    padding-left: -50px;
+}
+
+.content{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(236, 228, 228);
+    margin-left: 15px;
+}
+.tea{
+    margin-left: 20px;
+}
+.content2{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(236, 228, 228);
+    margin-left: 15px;
+}
+.tea2{
+    margin-left: 20px;
+    
+}
+.content2:hover{
+    background-color: rgb(201, 197, 197);
+    width: 97%;
+    padding-left: -50px;
+}
+.content3{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(236, 228, 228);
+    margin-left: 15px;
+}
+.tea3{
+    margin-left: 20px;
+}
+.content3:hover{
+    background-color: rgb(201, 197, 197);
+    width: 97%;
+    padding-left: -50px;
+}
+.content4{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(236, 228, 228);
+    margin-left: 15px;
+}
+.tea4{
+    margin-left: 20px;
+}
+.content4:hover{
+    background-color: rgb(201, 197, 197);
+    width: 97%;
+    padding-left: -50px;
+}
+.row1{
+    display: flex;
+    margin-top: -13px;
+    margin-left: 27px;
+}
+.row2{
+    display: flex;
+    margin-top: -22px;
+    margin-left: 20px;
+}
+.row3{
+    display: flex;
+    margin-top: -4px;
+    margin-left: 32px;
+    
+}
+.box5{
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px 3px rgb(250, 248, 248);
+    border: none;
+    width: 33%;
+    margin-top: -220px;
+    margin-left: 881px;
+    height: 32vh;
+    margin-right: 10px;
+}
+.tag{
+    background-color:rgb(240, 232, 232) ;
+    width: 98%;
+    height: 10vh;
+    margin-left: 10px;
+    padding: 3px 3px 3px 3px;
+}
+.tag h3{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 25px;
+}
+
+.travel h2{
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+    padding: 5px 10px 5px 10px;
+    margin-top: 6px;
+}
+.new h2{
+    margin-top: 28px;
+    font-size: 12px;
+    padding: 3px 6px 3px 6px;
+    background-color:rgb(240, 232, 232) ;
+}
+.new{
+    margin-left: 4px;
+}
+.lon h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.lon{
+    margin-left: 4px;
+}
+.ike h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.ike{
+    margin-left: 4px;
+}
+.nor h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.nor{
+    margin-left: 4px;
+}
+.diy h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.diy{
+    margin-left: 4px;
+}
+.ideas h2{
+    margin-top: 28px;
+    font-size: 12px;
+    margin-left: 13px;
+    padding: 3px 6px 3px 6px;background-color:rgb(240, 232, 232) ;
+}
+
+.family h2{
+    margin-top: 28px;
+    font-size: 12px;
+    margin-left: 10px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.family{
+    margin-left:-6px;
+}
+.baby h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.baby{
+    margin-left: 4px;
+}
+.news h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.news{
+    margin-left: 4px;
+}
+.clothing h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.clothing{
+    margin-left: 4px;
+}
+.shop h2{
+    margin-top: 28px;
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.shop{
+    margin-left: 4px;
+}
+.sports h2{
+    font-size: 12px;
+    margin-right: 203px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.game h2{
+    font-size: 12px;
+    background-color:rgb(240, 232, 232) ;
+    padding: 3px 6px 3px 6px;
+}
+.game{
+    margin-left: -200px;
+}
+#footer{
+    background-color:rgb(105, 104, 104) ;
+    margin-top: 55px;
+    margin-left: -8px;
+    margin-right: -10px;
+    height: 28vh;
+}
+.end{
+    display: flex;
+    margin-left: 16px;
+}
+.prev button{
+    padding: 15px 25px 15px 25px ;
+    background-color: rgb(90, 89, 89);
+    color: wheat;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.prev button:hover{
+    background-color: rgb(168, 165, 165);
+    color: rgb(90, 89, 89);
+}
+.next button{
+    padding: 15px 20px 15px 20px ;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.next button:hover{
+    background-color: rgb(209, 205, 205);
+    color:rgb(63, 60, 60);
+}
+.power h2{
+    font-size: 0.9rem;
+    color: white;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.power a{
+    color: white;
+}
+
+
+
+
+@media screen and (max-width: 320px) {
+    #main{
+        flex-direction: column;
+    }
+.box2{
+    margin-top: 30px;
+    width: 90%;
+    height: 100vh;
+    margin-left: 15px;
+}
+.box3{
+    margin-top: 30px;
+    width: 92%;
+    height: 130vh;
+    margin-left: 10px;
+}
+.box4{
+    margin-left: -10px;
+    margin-top: 105px;
+    width: 103%;
+    height: 70vh;
+}
+.box5{
+    margin-left: -2px;
+    margin-top: 460px;
+    width: 95%;
+    height: 45vh;
+}
+
+#footer{
+    margin-top: 140px;
+}
+body{
+    overflow-x: hidden;
+    margin-bottom: 0px;
+}
+.row{
+    display: none;
+}
+.bow{
+    display: none;
+}
+.box1{
+    width: 90%;
+    height: 130vh;
+}
+.pop{
+    width: 93%;
+}
+.nor{
+    margin-top: 40px;
+    margin-left: -220px;
+}
+.diy{
+    margin-top: 40px;
+    
+}
+.clothing{
+    margin-top: -37px;
+    margin-left: -80px;
+}
+.shop{
+    margin-top: -37px;
+}
+.tag{
+    width: 95%;
+}
+}
+
+
+@media screen and (max-width: 375px) and (min-width:321px ) {
+    #main{
+        flex-direction: column;
+    }
+.box2{
+    margin-top: 30px;
+    width: 90%;
+    height: 100vh;
+    margin-left: 15px;
+}
+.box3{
+    margin-top: 30px;
+    width: 92%;
+    height: 130vh;
+    margin-left: 10px;
+}
+.box4{
+    margin-left: -10px;
+    margin-top: 105px;
+    width: 103%;
+    height: 70vh;
+}
+.box5{
+    margin-left: -2px;
+    margin-top: 460px;
+    width: 95%;
+    height: 45vh;
+}
+
+#footer{
+    margin-top: 140px;
+}
+body{
+    overflow-x: hidden;
+    margin-bottom: 0px;
+}
+.row{
+    display: none;
+}
+.bow{
+    display: none;
+}
+.box1{
+    width: 90%;
+    height: 130vh;
+}
+.pop{
+    width: 93%;
+}
+.nor{
+    margin-top: 40px;
+    margin-left: -220px;
+}
+.diy{
+    margin-top: 40px;
+    
+}
+.clothing{
+    margin-top: -37px;
+    margin-left: -80px;
+}
+.shop{
+    margin-top: -37px;
+}
+.tag{
+    width: 95%;
+}
+
+}
+
+@media screen and (max-width: 425px) and (min-width: 376px) {
+    #main{
+        flex-direction: column;
+    }
+.box2{
+    margin-top: 30px;
+    width: 90%;
+    height: 100vh;
+    margin-left: 15px;
+}
+.box3{
+    margin-top: 30px;
+    width: 92%;
+    height: 130vh;
+    margin-left: 10px;
+}
+.box4{
+    margin-left: -10px;
+    margin-top: 105px;
+    width: 103%;
+    height: 70vh;
+}
+.box5{
+    margin-left: -2px;
+    margin-top: 460px;
+    width: 95%;
+    height: 45vh;
+}
+
+#footer{
+    margin-top: 140px;
+}
+body{
+    overflow-x: hidden;
+    margin-bottom: 0px;
+}
+.row{
+    display: none;
+}
+.bow{
+    display: none;
+}
+.box1{
+    width: 90%;
+    height: 130vh;
+}
+.pop{
+    width: 93%;
+}
+.nor{
+    margin-top: 40px;
+    margin-left: -220px;
+}
+.diy{
+    margin-top: 40px;
+    
+}
+.clothing{
+    margin-top: -37px;
+    margin-left: -80px;
+}
+.shop{
+    margin-top: -37px;
+}
+.tag{
+    width: 95%;
+}
+}
+
+@media screen and (max-width: 768px) and (min-width: 426px) {
+    #main{
+        flex-direction: column;
+    }
+.box2{
+    margin-top: 30px;
+    width: 90%;
+    height: 110vh;
+    margin-left: 38px;
+}
+.box3{
+    margin-top: 30px;
+    width: 91%;
+    height: 110vh;
+    margin-left: 38px;
+}
+.box4{
+    margin-left: -10px;
+    margin-top: 105px;
+    width: 101%;
+    height: 70vh;
+}
+.box5{
+    margin-left: 13px;
+    margin-top: 470px;
+    width: 94%;
+    height: 45vh;
+}
+
+#footer{
+    margin-top: 140px;
+}
+body{
+    overflow-x: hidden;
+    margin-bottom: 0px;
+}
+.row{
+    display: none;
+}
+.bow{
+    display: none;
+}
+.box1{
+    width: 90%;
+    height: 110vh;
+    margin-left: 38px;
+}
+.pop{
+    width: 97%;
+}
+.tag{
+    width: 98%;
+}
+.content:hover{
+    width:678px;
+}
+.content2:hover{
+    width:678px;
+}
+.content3:hover{
+    width:678px;
+}
+.content4:hover{
+    width:678px;
+}
+
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+    .box1{
+        width: 70%;
+        height: 100vh;
+    }
+    .box2{
+        width: 90%;
+    }
+    .box4{
+        margin-top: -870px;
+        height: 70vh;
+        width: 48%;
+    }
+    #main{
+        width: 130%;
+    }
+    #header{
+        margin-left: 340px;
+    }
+    .box3{
+        width: 84%;
+        margin-left: 15px;
+        height: 100vh;
+    }
+    .box5{
+        margin-top: -280px;
+        width: 40%;
+    }
+    #footer{
+        margin-top: 180px;
+        width: 130%;
+    }
+    
+}        
